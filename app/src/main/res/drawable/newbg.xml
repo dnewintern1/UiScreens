@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <svg xmlns="http://www.w3.org/2000/svg" width="385" height="395" viewBox="0 0 385 395" fill="none">
+        <g filter="url(#filter0_b_3170_3107)">
+            <path d="M-13 2.99999C-13 -5.28428 -6.28427 -12 2 -12H378C386.284 -12 393 -5.28427 393 3V334.346C393 340.75 388.935 346.447 382.88 348.53L252.301 393.456C246.158 395.569 239.322 393.485 234.522 389.109C225.474 380.86 208.541 369.091 185.5 369C162.339 368.908 144.924 380.855 135.616 389.17C130.755 393.513 123.851 395.471 117.735 393.218L-3.18594 348.664C-9.08268 346.492 -13 340.874 -13 334.589V2.99999Z" fill="black" fill-opacity="0.01"/>
+        </g>
+        <defs>
+            <filter id="filter0_b_3170_3107" x="-163" y="-162" width="706" height="706.288" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                <feGaussianBlur in="BackgroundImageFix" stdDeviation="75"/>
+                <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_3170_3107"/>
+                <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_3170_3107" result="shape"/>
+            </filter>
+        </defs>
+    </svg>
+</selector>
